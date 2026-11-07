@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rock478.github.io/sitemap.xml
